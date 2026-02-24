@@ -220,19 +220,26 @@
   <div class="hero-img"></div>
   <div class="hero-line"></div>
   <div class="hero-content fade-in">
-    <div class="hero-tag">Cameroun · Afrique · Monde</div>
-    <h1>ATRIC SARL –<br><em>Connecter l'Afrique</em><br>aux opportunités</h1>
-    <p class="hero-subtitle">African Trade and Industry Company</p>
+    <div class="hero-tag">Cameroun · Afrique · International</div>
+    <h1><em>Groupe ATRIC</em><br>Expertise africaine<br>orientée rentabilité</h1>
+    <p class="hero-subtitle">Groupe stratégique africain – Structuration, développement et optimisation de projets à forte rentabilité</p>
     <ul class="hero-liste">
-      <li>Structuration de projets rentables</li>
-      <li>Sécurisation des importations</li>
-      <li>Digitalisation et visibilité</li>
-      <li>Développement agro-industriel et patrimonial</li>
-      <li>Réalisation de projets immobiliers et de construction</li>
+      <li>Commerce international &amp; distribution optimisée</li>
+      <li>Construction &amp; architecture moderne</li>
+      <li>Agro-industrie rentable</li>
+      <li>Conseil stratégique &amp; financement de projets</li>
+      <li>Développement digital &amp; innovation</li>
+      <li>Analyse &amp; montage des dossiers d'appels d'offres</li>
     </ul>
+    <div style="margin-bottom:1.5rem;padding:1rem 1.5rem;border-left:2px solid var(--or);background:rgba(201,168,76,0.05);">
+      <div style="font-size:0.8rem;color:var(--or);margin-bottom:0.3rem;">🎯 NOTRE MISSION</div>
+      <div style="font-size:0.88rem;color:var(--texte);line-height:1.7;">Transformer les opportunités en investissements performants.</div>
+      <div style="font-size:0.8rem;color:var(--or);margin-top:0.8rem;margin-bottom:0.3rem;">🚀 NOTRE VISION</div>
+      <div style="font-size:0.88rem;color:var(--texte);line-height:1.7;">Bâtir un groupe africain de référence dans le commerce, l'industrie et l'innovation.</div>
+    </div>
     <div class="hero-cta-group">
-      <a href="#contact" class="btn">Demandez votre audit gratuit →</a>
-      <a href="#services" class="btn btn-outline">Nos services</a>
+      <a href="#contact" class="btn">Contactez un expert ATRIC →</a>
+      <a href="#services" class="btn btn-outline">Nos pôles stratégiques</a>
     </div>
   </div>
   <div class="hero-stats">
@@ -363,21 +370,78 @@
     <div class="service-card" style="border-top: 2px solid var(--or); grid-column: 1 / -1;">
       <div class="service-num">07</div>
       <span class="service-icon">📋</span>
-      <h3>Innovation & Montage de Dossiers d'Appel d'Offres</h3>
+      <h3>Analyse & Montage des Dossiers d'Appels d'Offres</h3>
+      <p style="font-size:0.88rem;color:var(--texte);margin-bottom:1rem;line-height:1.7;">ATRIC accompagne entreprises et investisseurs dans la conquête des marchés publics et privés. Nous transformons les opportunités institutionnelles en contrats remportés.</p>
       <ul>
-        <li>Analyse et identification des opportunités d'appels d'offres (locaux et internationaux)</li>
-        <li>Montage complet de dossiers de soumission (technique et financier)</li>
-        <li>Rédaction de propositions commerciales et offres techniques</li>
-        <li>Conseil en conformité réglementaire et administrative</li>
-        <li>Suivi et accompagnement jusqu'à l'attribution du marché</li>
-        <li>Stratégie d'innovation pour renforcer la compétitivité de vos offres</li>
+        <li>Analyse des DAO (Dossier d'Appel d'Offres) et vérification des critères administratifs et techniques</li>
+        <li>Montage complet des dossiers de soumission (technique et financier)</li>
+        <li>Rédaction des offres techniques et financières optimisées</li>
+        <li>Optimisation stratégique pour maximiser les chances d'attribution</li>
+        <li>Suivi post-dépôt et accompagnement jusqu'à l'attribution du marché</li>
+        <li>Partenariats institutionnels : projets publics, ONG, collectivités, partenaires internationaux</li>
       </ul>
-      <div class="service-impact">💡 Maximisez vos chances de remporter des marchés publics et privés grâce à des dossiers solides, conformes et compétitifs</div>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem;margin-top:1.5rem;">
+        <div style="padding:1rem;background:rgba(201,168,76,0.05);border:1px solid rgba(201,168,76,0.2);">
+          <div style="font-size:0.7rem;letter-spacing:0.2em;color:var(--or);margin-bottom:0.5rem;">VALEUR AJOUTÉE</div>
+          <ul style="list-style:none;">
+            <li style="font-size:0.8rem;color:var(--texte);padding:0.25rem 0;display:flex;gap:0.5rem;"><span style="color:var(--or);">✓</span> Lecture stratégique du cahier des charges</li>
+            <li style="font-size:0.8rem;color:var(--texte);padding:0.25rem 0;display:flex;gap:0.5rem;"><span style="color:var(--or);">✓</span> Structuration technique et financière optimisée</li>
+            <li style="font-size:0.8rem;color:var(--texte);padding:0.25rem 0;display:flex;gap:0.5rem;"><span style="color:var(--or);">✓</span> Réduction des risques de rejet administratif</li>
+          </ul>
+        </div>
+        <div style="padding:1rem;background:rgba(201,168,76,0.05);border:1px solid rgba(201,168,76,0.2);">
+          <div style="font-size:0.7rem;letter-spacing:0.2em;color:var(--or);margin-bottom:0.5rem;">MARCHÉS CIBLÉS</div>
+          <ul style="list-style:none;">
+            <li style="font-size:0.8rem;color:var(--texte);padding:0.25rem 0;display:flex;gap:0.5rem;"><span style="color:var(--or);">→</span> Projets publics & collectivités</li>
+            <li style="font-size:0.8rem;color:var(--texte);padding:0.25rem 0;display:flex;gap:0.5rem;"><span style="color:var(--or);">→</span> ONG & partenaires internationaux</li>
+            <li style="font-size:0.8rem;color:var(--texte);padding:0.25rem 0;display:flex;gap:0.5rem;"><span style="color:var(--or);">→</span> Grandes entreprises privées</li>
+          </ul>
+        </div>
+      </div>
+      <div class="service-impact">🎯 Objectif : Transformer les opportunités publiques et privées en marchés remportés — ATRIC comme cabinet stratégique institutionnel</div>
     </div>
 
   </div>
 </section>
 
+
+<!-- ATRIC PUBLIC & INSTITUTIONAL -->
+<section style="background:var(--noir);padding:5rem 5%;border-top:1px solid var(--gris3);">
+  <div class="section-tag">Pôle institutionnel</div>
+  <h2>ATRIC Public &<br><em style="color:var(--or);font-style:normal;">Institutional Services</em></h2>
+  <p style="font-size:0.95rem;color:var(--texte);max-width:650px;line-height:1.9;margin-bottom:3rem;">Une branche spécialisée d'ATRIC SARL dédiée aux marchés institutionnels. Nous positionnons nos clients au niveau des grands projets publics, ONG et partenariats internationaux.</p>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1.5rem;margin-bottom:3rem;">
+    <div style="background:var(--gris);border:1px solid var(--gris3);border-top:2px solid var(--or);padding:2rem;">
+      <div style="font-size:1.8rem;margin-bottom:1rem;">🏛️</div>
+      <h3 style="font-family:'Cormorant Garamond',serif;font-size:1.2rem;color:var(--or);margin-bottom:0.8rem;">Appels d'offres publics</h3>
+      <p style="font-size:0.83rem;color:var(--texte);line-height:1.7;">Analyse, montage et soumission de dossiers pour les marchés publics locaux et nationaux.</p>
+    </div>
+    <div style="background:var(--gris);border:1px solid var(--gris3);border-top:2px solid var(--or);padding:2rem;">
+      <div style="font-size:1.8rem;margin-bottom:1rem;">🤝</div>
+      <h3 style="font-family:'Cormorant Garamond',serif;font-size:1.2rem;color:var(--or);margin-bottom:0.8rem;">Partenariats institutionnels</h3>
+      <p style="font-size:0.83rem;color:var(--texte);line-height:1.7;">Facilitation de partenariats avec ONG, organisations internationales et collectivités territoriales.</p>
+    </div>
+    <div style="background:var(--gris);border:1px solid var(--gris3);border-top:2px solid var(--or);padding:2rem;">
+      <div style="font-size:1.8rem;margin-bottom:1rem;">💰</div>
+      <h3 style="font-family:'Cormorant Garamond',serif;font-size:1.2rem;color:var(--or);margin-bottom:0.8rem;">Montage de projets financés</h3>
+      <p style="font-size:0.83rem;color:var(--texte);line-height:1.7;">Structuration de projets éligibles aux financements publics et aux investisseurs privés.</p>
+    </div>
+    <div style="background:var(--gris);border:1px solid var(--gris3);border-top:2px solid var(--or);padding:2rem;">
+      <div style="font-size:1.8rem;margin-bottom:1rem;">📊</div>
+      <h3 style="font-family:'Cormorant Garamond',serif;font-size:1.2rem;color:var(--or);margin-bottom:0.8rem;">Stratégie pour investisseurs</h3>
+      <p style="font-size:0.83rem;color:var(--texte);line-height:1.7;">Identifier des marchés sécurisés → monter le dossier → proposer aux investisseurs → partager les bénéfices.</p>
+    </div>
+  </div>
+  <div style="background:rgba(201,168,76,0.06);border:1px solid rgba(201,168,76,0.2);padding:2.5rem;text-align:center;">
+    <div style="font-family:'Cormorant Garamond',serif;font-size:1.8rem;color:var(--blanc);margin-bottom:1rem;">ATRIC devient votre <em style="color:var(--or);">plateforme stratégique</em></div>
+    <div style="display:flex;justify-content:center;gap:2rem;flex-wrap:wrap;margin-top:1.5rem;">
+      <div style="text-align:center;"><div style="font-size:1.5rem;">🏢</div><div style="font-size:0.75rem;color:var(--or);letter-spacing:0.15em;margin-top:0.4rem;">GROUPE MULTISECTORIEL</div></div>
+      <div style="text-align:center;"><div style="font-size:1.5rem;">💼</div><div style="font-size:0.75rem;color:var(--or);letter-spacing:0.15em;margin-top:0.4rem;">CABINET STRATÉGIQUE</div></div>
+      <div style="text-align:center;"><div style="font-size:1.5rem;">🌍</div><div style="font-size:0.75rem;color:var(--or);letter-spacing:0.15em;margin-top:0.4rem;">FACILITATEUR D'INVESTISSEMENTS</div></div>
+      <div style="text-align:center;"><div style="font-size:1.5rem;">🏛️</div><div style="font-size:0.75rem;color:var(--or);letter-spacing:0.15em;margin-top:0.4rem;">ACTEUR MARCHÉS PUBLICS</div></div>
+    </div>
+  </div>
+</section>
 <!-- POURQUOI NOUS -->
 <section id="pourquoi">
   <div class="section-tag">Pourquoi nous choisir</div>
@@ -420,10 +484,61 @@
   </div>
 </section>
 
+
+<!-- GROUPE ATRIC -->
+<section style="background:var(--gris2);padding:6rem 5%;">
+  <div class="section-tag">Structure du groupe</div>
+  <h2>Le <em style="color:var(--or);font-style:normal;">Groupe ATRIC</em><br>Holding stratégique africaine</h2>
+  <p style="font-size:0.95rem;color:var(--texte);max-width:650px;line-height:1.9;margin-bottom:3rem;">On passe de PME multisectorielle à <strong style="color:var(--blanc);">groupe stratégique africain structuré</strong>. Une holding avec 5 branches spécialisées qui attire banques, investisseurs et partenaires institutionnels.</p>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.5rem;margin-bottom:3rem;">
+    <div style="background:var(--noir);border:1px solid var(--gris3);border-top:3px solid var(--or);padding:2rem;transition:transform 0.3s;" onmouseover="this.style.transform='translateY(-4px)'" onmouseout="this.style.transform='translateY(0)'">
+      <div style="font-size:1.8rem;margin-bottom:0.8rem;">🌍</div>
+      <div style="font-size:0.65rem;letter-spacing:0.25em;color:var(--or);margin-bottom:0.5rem;">BRANCHE 01</div>
+      <h3 style="font-family:'Cormorant Garamond',serif;font-size:1.15rem;color:var(--blanc);margin-bottom:0.6rem;">ATRIC Trade</h3>
+      <p style="font-size:0.8rem;color:var(--texte);line-height:1.7;">Import-Export &amp; Distribution — Sourcing international, optimisation douanière, marges jusqu'à 100%</p>
+    </div>
+    <div style="background:var(--noir);border:1px solid var(--gris3);border-top:3px solid var(--or);padding:2rem;transition:transform 0.3s;" onmouseover="this.style.transform='translateY(-4px)'" onmouseout="this.style.transform='translateY(0)'">
+      <div style="font-size:1.8rem;margin-bottom:0.8rem;">🏗️</div>
+      <div style="font-size:0.65rem;letter-spacing:0.25em;color:var(--or);margin-bottom:0.5rem;">BRANCHE 02</div>
+      <h3 style="font-family:'Cormorant Garamond',serif;font-size:1.15rem;color:var(--blanc);margin-bottom:0.6rem;">ATRIC Construction</h3>
+      <p style="font-size:0.8rem;color:var(--texte);line-height:1.7;">Construction &amp; Engineering — Conception 2D/3D, suivi chantiers, projets résidentiels &amp; industriels</p>
+    </div>
+    <div style="background:var(--noir);border:1px solid var(--gris3);border-top:3px solid var(--or);padding:2rem;transition:transform 0.3s;" onmouseover="this.style.transform='translateY(-4px)'" onmouseout="this.style.transform='translateY(0)'">
+      <div style="font-size:1.8rem;margin-bottom:0.8rem;">🌾</div>
+      <div style="font-size:0.65rem;letter-spacing:0.25em;color:var(--or);margin-bottom:0.5rem;">BRANCHE 03</div>
+      <h3 style="font-family:'Cormorant Garamond',serif;font-size:1.15rem;color:var(--blanc);margin-bottom:0.6rem;">ATRIC Agro</h3>
+      <p style="font-size:0.8rem;color:var(--texte);line-height:1.7;">Agro-industrie &amp; Industry — Projets agricoles, avicoles, transformation locale, chaîne de valeur</p>
+    </div>
+    <div style="background:var(--noir);border:1px solid var(--gris3);border-top:3px solid var(--or);padding:2rem;transition:transform 0.3s;" onmouseover="this.style.transform='translateY(-4px)'" onmouseout="this.style.transform='translateY(0)'">
+      <div style="font-size:1.8rem;margin-bottom:0.8rem;">💼</div>
+      <div style="font-size:0.65rem;letter-spacing:0.25em;color:var(--or);margin-bottom:0.5rem;">BRANCHE 04</div>
+      <h3 style="font-family:'Cormorant Garamond',serif;font-size:1.15rem;color:var(--blanc);margin-bottom:0.6rem;">ATRIC Consulting</h3>
+      <p style="font-size:0.8rem;color:var(--texte);line-height:1.7;">Conseil &amp; Finance — Business plan, étude rentabilité, montage dossier bancaire, recherche investisseurs</p>
+    </div>
+    <div style="background:var(--noir);border:1px solid var(--gris3);border-top:3px solid var(--or);padding:2rem;transition:transform 0.3s;" onmouseover="this.style.transform='translateY(-4px)'" onmouseout="this.style.transform='translateY(0)'">
+      <div style="font-size:1.8rem;margin-bottom:0.8rem;">💻</div>
+      <div style="font-size:0.65rem;letter-spacing:0.25em;color:var(--or);margin-bottom:0.5rem;">BRANCHE 05</div>
+      <h3 style="font-family:'Cormorant Garamond',serif;font-size:1.15rem;color:var(--blanc);margin-bottom:0.6rem;">ATRIC Digital</h3>
+      <p style="font-size:0.8rem;color:var(--texte);line-height:1.7;">Digital Solutions — Sites web, réseaux sociaux, marketing digital, transformation numérique</p>
+    </div>
+  </div>
+  <div style="background:rgba(201,168,76,0.06);border:1px solid rgba(201,168,76,0.2);padding:2rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1.5rem;">
+    <div>
+      <div style="font-family:'Cormorant Garamond',serif;font-size:1.4rem;color:var(--blanc);margin-bottom:0.5rem;">Cette structure attire :</div>
+      <div style="display:flex;gap:1.5rem;flex-wrap:wrap;">
+        <span style="font-size:0.8rem;color:var(--texte);">🏦 Banques</span>
+        <span style="font-size:0.8rem;color:var(--texte);">💰 Investisseurs diaspora</span>
+        <span style="font-size:0.8rem;color:var(--texte);">🌍 Partenaires internationaux</span>
+        <span style="font-size:0.8rem;color:var(--texte);">🏛️ Institutions publiques</span>
+      </div>
+    </div>
+    <a href="#contact" class="btn">Devenir partenaire →</a>
+  </div>
+</section>
 <!-- CLIENTS -->
 <section id="clients">
-  <div class="section-tag">Nos clients & partenaires</div>
-  <h2>Nous accompagnons<br>des profils variés</h2>
+  <div class="section-tag">Nos clients &amp; partenaires</div>
+  <h2>Nous accompagnons<br><em style="color:var(--or);font-style:normal;">4 profils</em> d'investisseurs</h2>
   <div class="clients-grid fade-in">
     <div class="client-card">
       <div class="client-icon">🏢</div>
